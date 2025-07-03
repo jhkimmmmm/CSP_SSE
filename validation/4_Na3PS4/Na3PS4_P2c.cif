@@ -1,0 +1,43 @@
+data_Na3PS4_C-selectedcfg_26_contcar_sym
+_audit_creation_date              2025-07-02
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P2/C'
+_symmetry_Int_Tables_number       13
+_symmetry_cell_setting            monoclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,y,-z+1/2
+  -x,-y,-z
+  x,-y,z+1/2
+_cell_length_a                    6.9095
+_cell_length_b                    6.8715
+_cell_length_c                    11.2741
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  114.4588
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+Na0    Na    0.29843   0.49084   0.07380   0.00000  Uiso   1.00
+S8     S    -0.00473   0.24006   0.09962   0.00000  Uiso   1.00
+S10    S     0.26332   0.40601  -0.18575   0.00000  Uiso   1.00
+Na2    Na    0.00000   0.91862   0.25000   0.00000  Uiso   1.00
+P6     P     0.00000   0.41100   0.25000   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+S8     P6      2.052   .     A
+S10    P6      2.080   3_565 A
+P6     S8      2.052   2     A
+P6     S10     2.080   3_565 A
+P6     S10     2.080   4_565 A

@@ -1,0 +1,35 @@
+data_Na3PS4_C-selectedcfg_31_contcar
+_audit_creation_date              2025-07-02
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P-421C'
+_symmetry_Int_Tables_number       114
+_symmetry_cell_setting            tetragonal
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  y,-x,-z
+  -y,x,-z
+  -x+1/2,y+1/2,-z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  -y+1/2,-x+1/2,z+1/2
+  y+1/2,x+1/2,z+1/2
+_cell_length_a                    6.9949
+_cell_length_b                    6.9949
+_cell_length_c                    7.0819
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+S8     S     0.84688   0.18854   0.33365   0.00000  Uiso   1.00
+Na0    Na    0.00000   0.50000   0.07961   0.00000  Uiso   1.00
+Na4    Na    0.00000   0.00000   0.00000   0.00000  Uiso   1.00
+P6     P     0.00000   0.00000   0.50000   0.00000  Uiso   1.00

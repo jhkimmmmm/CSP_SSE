@@ -1,0 +1,76 @@
+data_n-Li2SiS3-made_contcar
+_audit_creation_date              2023-01-25
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    6.5917
+_cell_length_b                    6.6146
+_cell_length_c                    11.3177
+_cell_angle_alpha                 90.4394
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+Li0    Li    0.39029   0.36650   0.85696   0.00000  Uiso   1.00
+Li1    Li    0.10894   0.86915   0.35832   0.00000  Uiso   1.00
+Li2    Li    0.89029   0.13350   0.64304   0.00000  Uiso   1.00
+Li3    Li    0.60894   0.63085   0.14168   0.00000  Uiso   1.00
+Li4    Li    0.51646   0.05225   0.26238   0.00000  Uiso   1.00
+Li5    Li    0.48041  -0.05756   0.73431   0.00000  Uiso   1.00
+Li6    Li    0.01646   0.44775   0.23762   0.00000  Uiso   1.00
+Li7    Li   -0.01959   0.55756   0.76569   0.00000  Uiso   1.00
+Si8    Si    0.34554   0.34245   0.50964   0.00000  Uiso   1.00
+Si9    Si    0.65591   0.65592   0.49014   0.00000  Uiso   1.00
+Si10   Si    0.15591   0.84408   0.00986   0.00000  Uiso   1.00
+Si11   Si    0.84554   0.15755  -0.00964   0.00000  Uiso   1.00
+S12    S     0.21458   0.21344   0.35823   0.00000  Uiso   1.00
+S13    S     0.76356   0.76628   0.32816   0.00000  Uiso   1.00
+S14    S     0.28639   0.71228   0.85910   0.00000  Uiso   1.00
+S15    S     0.73784   0.26955   0.82885   0.00000  Uiso   1.00
+S16    S     0.26356   0.73372   0.17184   0.00000  Uiso   1.00
+S17    S     0.71458   0.28657   0.14177   0.00000  Uiso   1.00
+S18    S     0.23784   0.23045   0.67115   0.00000  Uiso   1.00
+S19    S     0.78639   0.78772   0.64090   0.00000  Uiso   1.00
+S20    S     0.17623   0.17451   0.00602   0.00000  Uiso   1.00
+S21    S     0.82551   0.82647  -0.00639   0.00000  Uiso   1.00
+S22    S     0.32551   0.67353   0.50639   0.00000  Uiso   1.00
+S23    S     0.67622   0.32549   0.49398   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+Si8    S12     2.095   .     S
+Si8    S18     2.101   .     S
+Si8    S22     2.195   .     S
+Si8    S23     2.190   .     S
+Si9    S13     2.102   .     S
+Si9    S19     2.095   .     S
+Si9    S22     2.189   .     S
+Si9    S23     2.191   .     S
+Si10   S14     2.095   1_554 S
+Si10   S16     2.102   .     S
+Si10   S20     2.191   1_565 S
+Si10   S21     2.189   1_455 S
+Si11   S15     2.101   1_554 S
+Si11   S17     2.095   .     S
+Si11   S20     2.190   1_655 S
+Si11   S21     2.195   1_545 S
+S14    Si10    2.095   1_556 S
+S15    Si11    2.101   1_556 S
+S20    Si10    2.191   1_545 S
+S20    Si11    2.190   1_455 S
+S21    Si10    2.189   1_655 S
+S21    Si11    2.195   1_565 S

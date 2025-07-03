@@ -1,0 +1,57 @@
+data_LiAuO_C-selectedcfg_06_contcar_sym
+_audit_creation_date              2025-07-02
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P42/MNM'
+_symmetry_Int_Tables_number       136
+_symmetry_cell_setting            tetragonal
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  -y+1/2,x+1/2,z+1/2
+  y+1/2,-x+1/2,z+1/2
+  -x+1/2,y+1/2,-z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  y,x,-z
+  -y,-x,-z
+  -x,-y,-z
+  x,y,-z
+  y+1/2,-x+1/2,-z+1/2
+  -y+1/2,x+1/2,-z+1/2
+  x+1/2,-y+1/2,z+1/2
+  -x+1/2,y+1/2,z+1/2
+  -y,-x,z
+  y,x,z
+_cell_length_a                    9.2086
+_cell_length_b                    9.2086
+_cell_length_c                    3.6015
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+Li0    Li   -0.14179   0.40766   1.00000   0.00000  Uiso   1.00
+O20    O     0.38092   0.16385   1.00000   0.00000  Uiso   1.00
+Li8    Li    0.16676   0.16676   1.00000   0.00000  Uiso   1.00
+Au12   Au    0.61804   0.61804   1.00000   0.00000  Uiso   1.00
+O16    O     0.10671   0.10671   0.50000   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+O20    Au12    2.008   2_665 S
+Au12   O20     2.008   2_665 S
+Au12   O20     2.008   8_667 S
+Au12   O16     2.072   3     S
+Au12   O16     2.072   4     S
+O16    Au12    2.072   4_454 S
+O16    Au12    2.072   3_544 S

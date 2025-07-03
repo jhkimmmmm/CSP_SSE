@@ -1,0 +1,58 @@
+******************************************
+*      TYPE OF RUN AND SYSTEM            *
+******************************************
+USPEX : calculationMethod (USPEX, VCNEB, META)
+300   : calculationType (dimension: 0-3; molecule: 0/1; varcomp: 0/1)
+1     : AutoFrac
+
+% optType
+1
+% EndOptType
+
+% atomType
+Li Mn O
+% EndAtomType
+
+% numSpecies
+4 8 16
+% EndNumSpecies
+
+0.02 : SymTolerance
+
+******************************************
+*               POPULATION               *
+******************************************
+100    : populationSize (how many individuals per generation)
+100    : initialPopSize
+100    : numGenerations (how many generations shall be calculated)
+20    : stopCrit
+0     : reoptOld
+******************************************
+*          VARIATION OPERATORS           *
+******************************************
+0.50  : fracGene
+0.20  : fracRand
+0.20  : fracTopRand
+0.10  : fracAtomsMut
+0.35  : fracPerm
+0.10  : fracLatMut
+0.5   : mutationRate
+0.7 : bestFrac
+20 : keepBestHM
+1  : antiSeedsActivation
+0.01 : antiSeedsMax
+0.005 : antiSeedsSigma
+*****************************************
+*   DETAILS OF AB INITIO CALCULATIONS   *
+*****************************************
+% abinitioCode
+4 
+% ENDabinit
+
+% commandExecutable
+mpirun -n 1 /home/king/MTP/MLIP/supercom_LAMMPS/bin/lmp_intel_cpu_intelmpi -i lammps.in > lammps.out
+
+% EndExecutable
+
+48    : numParallelCalcs
+1     : whichCluster

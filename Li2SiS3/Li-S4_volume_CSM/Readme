@@ -1,0 +1,5 @@
+In AIMD directory, 
+
+ex) 
+cd AIMD/1st/600K
+python dynamics_Li_CSM.py 1 5 

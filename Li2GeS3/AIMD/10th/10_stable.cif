@@ -1,0 +1,47 @@
+data_11_42_sym
+_audit_creation_date              2024-04-01
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P42/M'
+_symmetry_Int_Tables_number       84
+_symmetry_cell_setting            tetragonal
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  -y,x,z+1/2
+  y,-x,z+1/2
+  -x,-y,-z
+  x,y,-z
+  y,-x,-z+1/2
+  -y,x,-z+1/2
+_cell_length_a                    6.9001
+_cell_length_b                    6.9001
+_cell_length_c                    11.8815
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+Li0    Li    0.82954   0.36170   0.18382   0.00000  Uiso   1.00
+S16    S     0.28140   0.82417   0.65791   0.00000  Uiso   1.00
+Ge8    Ge    0.68081   0.63843  -0.00000   0.00000  Uiso   1.00
+S12    S     0.35299   0.70145  -0.00000   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+S16    Ge8     2.192   3_655 S
+Ge8    S12     2.303   .     S
+Ge8    S16     2.192   4_564 S
+Ge8    S16     2.192   7_565 S
+Ge8    S12     2.357   2_665 S
+S12    Ge8     2.357   2_665 S

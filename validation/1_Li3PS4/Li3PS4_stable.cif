@@ -1,0 +1,62 @@
+data_Li3PS4_123_contcar_contcar_sym
+_audit_creation_date              2025-07-02
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'I23'
+_symmetry_Int_Tables_number       197
+_symmetry_cell_setting            cubic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  -x,y,-z
+  x,-y,-z
+  z,x,y
+  z,-x,-y
+  -z,-x,y
+  -z,x,-y
+  y,z,x
+  -y,z,-x
+  y,-z,-x
+  -y,-z,x
+  x+1/2,y+1/2,z+1/2
+  -x+1/2,-y+1/2,z+1/2
+  -x+1/2,y+1/2,-z+1/2
+  x+1/2,-y+1/2,-z+1/2
+  z+1/2,x+1/2,y+1/2
+  z+1/2,-x+1/2,-y+1/2
+  -z+1/2,-x+1/2,y+1/2
+  -z+1/2,x+1/2,-y+1/2
+  y+1/2,z+1/2,x+1/2
+  -y+1/2,z+1/2,-x+1/2
+  y+1/2,-z+1/2,-x+1/2
+  -y+1/2,-z+1/2,x+1/2
+_cell_length_a                    12.0215
+_cell_length_b                    12.0215
+_cell_length_c                    12.0215
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+Li0    Li   -0.49830   1.25797   0.24425   0.00000  Uiso   1.00
+S16    S    -0.65002   0.84199  -0.14701   0.00000  Uiso   1.00
+P12    P    -0.25148   1.25148   0.74852   0.00000  Uiso   1.00
+S28    S    -0.35042   1.35042   0.64958   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+S16    P12     2.060   2_474 A
+P12    S28     2.060   .     A
+P12    S16     2.060   2_476 A
+P12    S16     2.060   5_575 A
+P12    S16     2.060   11_465 A
