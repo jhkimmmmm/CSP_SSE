@@ -1,5 +1,4 @@
 # Machine Learning-Assisted Crystal Structure Prediction of Solid-State Electrolytes: Revealing Superior Ionic Conductivity in Metastable Edge-Sharing Phases
-"paper title"
 
 ## Contents
 - active_learning codes
